@@ -1,0 +1,7 @@
+.env
+.log
+.md
+!README.md
+.ipynb_checkpoints
+*ipynb
+venv
